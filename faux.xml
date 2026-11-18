@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Projet final - Sokhna GUEYE, née le 24/01/2006 -->
+<document cote="LIV-014" type="livre" disponible="true"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="catalogue.xsd">
+  <titre>Le Jardin des Sables</titre>
+  <auteur>Binta Seck</auteur>
+  <auteur>Awa Sy</auteur>
+  <annee>2030</annee>
+  <prix>3500</prix>
+</document>
